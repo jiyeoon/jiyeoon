@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 Good day!
-I am Jiyeon Lee who is interested in Data Science.
+I am Jiyeon Lee who is interested in Data Science from South Korea.
 
 If you want to contact me, please leave me a message!
 
 ### 💫 Experience
 
 1. Student Intern - *SAP Korea*
-2. Developers Student Club Lead of Korea (2019-2020) - *Google*
+2. DSC(Developers Student Club) Lead at Korea (2019-2020) - *Google*
 
 
 <!--
