@@ -74,29 +74,6 @@ If you want to contact me, please leave me a message!
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-<br />
-
 
 <!--
 **jiyeoon/jiyeoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
