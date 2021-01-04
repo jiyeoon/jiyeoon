@@ -43,7 +43,7 @@ If you want to contact me, please leave me a message!
 <br/>  
 
 
-### ✨ Rapidfire  
+### ✨ Summary
 
 - 🔭 I’m currently working on [11st corp](https://www.11st.co.kr/) as a machine learning engineer.
 - 🌱 I'm currently learning Deep Learning, Computer Vision.
